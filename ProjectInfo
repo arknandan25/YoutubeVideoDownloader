@@ -1,0 +1,20 @@
+The project is made using pytube-plugin for downloading youtube videos.
+Front is made using tkinter, the progress bar is a bit fucked up, there seemed to be some problem with time.sleep, so can't see it progressing properly.
+User directory can be set or be input from user.
+Current features and specifications:
+  1. Download videos entering link
+  2. Save them in a predefined directory
+  3. View progress of video download
+Features for future:
+  1. Selecting video quality on GUI
+  2. Download playlist
+  
+ Links and References:
+ https://stackoverflow.com/questions/64492922/pytube-only-works-periodically-keyerror-assets
+ https://pypi.org/project/pytube/
+ https://dev.to/seijind/how-to-download-youtube-videos-in-python-44od
+ https://buildmedia.readthedocs.org/media/pdf/python-pytube/latest/python-pytube.pdf
+ https://realpython.com/python-gui-tkinter/
+ https://stackoverflow.com/questions/4783810/install-tkinter-for-python
+ https://yagisanatode.com/2018/03/11/how-to-create-a-simple-youtube-download-program-with-a-progress-in-python-3-with-pytube/
+ https://www.geeksforgeeks.org/progressbar-widget-in-tkinter-python/
